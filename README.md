@@ -13,7 +13,7 @@ Using real MLB data, the project challenges you to write SQL queries that help t
 
 ## ERD/ Database structure
 
-Detailed description of the database structure, including tables and their relationships, refer to the:[(https://cs50.harvard.edu/sql/psets/1/moneyball/)](https://cs50.harvard.edu/sql/psets/1/moneyball/)
+Detailed description of the database structure, including tables and their relationships, refer to the:https://cs50.harvard.edu/sql/psets/1/moneyball/#schema
 
 ## How to Use
 
