@@ -10,7 +10,9 @@ Using real MLB data, the project challenges you to write SQL queries that help t
 
 - `moneyball.sql` – SQL queries solving the problem set
 - `moneyball.db` – Provided SQLite database 
-- `schema.png` – Database schema diagram 
+
+## ERD/ Database structure
+Detailed description of the database structure, including tables and their relationships, refer to the problem set’s official schema explanation.
 
 ## How to Use
 
